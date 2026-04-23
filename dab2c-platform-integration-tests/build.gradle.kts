@@ -1,0 +1,9 @@
+plugins {
+    id("sample.kotlin-conventions")
+}
+
+description = "Sample starter — integration tests (not published)"
+
+dependencies {
+    testImplementation(project(":dab2c-platform-starter"))
+}
