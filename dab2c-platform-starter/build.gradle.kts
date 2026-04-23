@@ -1,6 +1,6 @@
 plugins {
-    id("sample.kotlin-conventions")
-    id("sample.publish-conventions")
+    id("dab2c.kotlin-conventions")
+    id("dab2c.publish-conventions")
 }
 
 description = "Sample starter — Spring Boot auto-configuration"

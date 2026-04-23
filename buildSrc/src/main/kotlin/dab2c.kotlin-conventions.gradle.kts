@@ -1,7 +1,7 @@
 import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 
 plugins {
-    id("sample.java-conventions")
+    id("dab2c.java-conventions")
     kotlin("jvm")
     kotlin("plugin.spring")
 }

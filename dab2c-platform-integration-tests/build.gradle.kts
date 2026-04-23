@@ -1,5 +1,5 @@
 plugins {
-    id("sample.kotlin-conventions")
+    id("dab2c.kotlin-conventions")
 }
 
 description = "Sample starter — integration tests (not published)"
